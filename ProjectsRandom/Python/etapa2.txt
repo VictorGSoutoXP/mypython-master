@@ -1,0 +1,1 @@
+Ultima etapa criar um arquivo com a variavel RAWDATA de entrada Challenge.hex e o de saida um Novo apenas com os dados.

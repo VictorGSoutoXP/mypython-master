@@ -1,0 +1,13 @@
+.idea
+trash/
+temp/
+uploads/
+auditoria/
+downloads/
+victhamed/
+application/trash/
+application/controllers/trash/
+application/controllers/old/
+application/helpers/trash/
+application/logs/
+application/views/exames/olds/

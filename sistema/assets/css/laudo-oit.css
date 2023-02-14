@@ -1,0 +1,42 @@
+.oit-container {
+    margin: 0px;
+    margin: 0px;
+    font-size: 10px;
+    font-family: verdana;
+}
+.oit-text {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.oit-choice {
+    font-size: 12px;
+}
+
+.oit-label {
+    font-size: 10px;
+}
+
+.oit-label-block {
+    font-size: 10px;
+    display: block;
+    padding-bottom: 2px;
+}
+
+.oit-label-block-10 {
+    font-size: 10px;
+    display: block;
+    padding-top: 4px;
+}
+
+.oit-label-block-10-pt10{
+    font-size: 10px;
+    display: block;
+    padding-top: 10px;
+}
+
+.oit-box {
+    border-bottom: 1px dashed black;
+    padding: 10px;
+    margin-bottom: 5px;
+}

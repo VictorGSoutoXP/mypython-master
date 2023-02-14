@@ -1,0 +1,25 @@
+# + Adição 
+    5+2== 
+# - Subtração
+    5-2== 
+# * Multiplicação
+    5*2== 
+# / Divisão
+    5/2==
+# ** Potência ( Ao quadrado )
+    5**2== 
+# // Divisão Inteira
+    5//2== 
+# % Resto da divisão
+    5%2== 
+
+# Ordem de Precedência
+    ( O quê é ordem de Precedência? = Precedência é o reconhecimento de uma hierarquia sobre a outra.)
+        1º A primeira coisa  a executar é o ()
+        2º Em seguida depois de resolver os parentes ou se eles não existirem é as potências resolver a exponenciação **
+        3º Em terceiro lugar irá executar quem aparecer primeiro * Multiplicação / Divisão % Resto da divisão
+        4º E por fim + Adição e - Subtração serão executados por últimos
+Exemplos:Importante sempre seguir a ordem de precedência!!!
+    5+3*2==11[ Como resolver? 3*2== 6|+5 = 11]
+    3*5+4**2==31[ Como resolver? 4**2== 16| 3*5 =15| 16+15= 31 ]
+    3*(5+4)**2==243[ Como resolver? (4+5=9)|9**2=81|81*3=243]

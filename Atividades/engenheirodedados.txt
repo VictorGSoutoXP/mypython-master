@@ -1,0 +1,163 @@
+Os engenheiros de rede permitem que os dados passem entre computadores em uma rede para ajudar na comunicação entre os usuários
+
+Como engenheiro de rede, você será responsável por configurar, desenvolver e manter redes de computadores dentro de uma organização ou entre organizações. Você oferecerá suporte aos usuários, que podem ser funcionários, clientes, clientes e fornecedores, e resolverá quaisquer problemas que surjam. Isso pode, em alguns casos, envolver o projeto de novas redes.
+
+Seu objetivo é garantir a integridade da infraestrutura de rede de alta disponibilidade para fornecer desempenho máximo para seus usuários.
+
+Você pode trabalhar internamente como parte da equipe de suporte de TI de uma organização ou externamente como parte de uma empresa terceirizada de consultoria de rede de TI que trabalha com vários clientes.
+
+As redes podem incluir:
+
+Computador
+Voz
+Firewall
+Outros cargos usados ​​para esta área de trabalho incluem:
+
+Arquiteto de rede/arquiteto de rede de computadores
+Suporte de rede/helpdesk
+Suporte/segurança/engenheiro de sistemas
+Engenheiro de suporte de TI/sistemas
+Administrador de rede
+Suporte de primeira/segunda linha
+Engenheiro VoIP/Cisco.
+Conteúdo [show]
+
+Tipos de rede
+Você pode trabalhar com uma variedade de tipos de rede, como:
+
+LANs – redes locais, ligando uma área limitada, como uma casa, escritório ou um pequeno grupo de edifícios
+MANs – redes de área metropolitana, ligando uma grande área, como um campus
+WANs – redes de longa distância, que se conectam nacional ou internacionalmente
+WLAN – rede local sem fio
+GANs – redes de área global, combinando todos os itens acima com tecnologias de comunicação móvel por satélite
+SAN – armazenamento/sistema/servidor/rede de pequena área
+CAN – rede de área de campus/controlador/cluster
+PAN – rede de área pessoal
+DAN – rede de área de mesa
+VoIP – rede de protocolo de voz sobre internet.
+Responsabilidades
+Como engenheiro de rede, você precisará:
+
+Estabelecer o ambiente de rede projetando a configuração do sistema, dirigindo a instalação do sistema e definindo, documentando e reforçando os padrões do sistema
+Projetar e implementar novas soluções e melhorar a resiliência do ambiente atual
+Maximizar o desempenho da rede monitorando o desempenho, resolvendo problemas e interrupções de rede, agendando atualizações e colaborando com arquitetos de rede na otimização de rede
+Realizar investigações de falha de rede de dados em ambientes de área local e ampla usando informações de várias fontes
+Sistemas de rede seguros estabelecendo e aplicando políticas, e definindo e monitorando o acesso
+Apoiar e administrar ambientes de firewall de acordo com a política de segurança de TI
+Relatar o status operacional da rede, reunindo e priorizando informações e gerenciando projetos
+Atualizar o equipamento de rede de dados para as últimas versões de firmware estáveis
+Configurar equipamentos de roteamento e comutação, serviços de voz IP hospedados e firewalls
+Fornecer suporte remoto para engenheiros no local e usuários/clientes finais durante a instalação
+Fornecer solução de problemas remotos e localização de falhas se ocorrerem problemas na instalação inicial
+Realizar gerenciamento de capacidade e auditoria de endereçamento IP e dispositivos hospedados em data centers
+Manter contato com equipes de gerenciamento de projetos, engenheiros de terceira linha e engenheiros de central de serviços regularmente
+Fale com os clientes por e-mail e telefone para obter os requisitos iniciais.
+Ler:  Quanto ganha um analista de aplicativos salários • O que faz?
+Salário
+Os salários no nível de entrada começam em torno de R$ 19.000 a R$ 20.000.
+Com experiência, você pode esperar ganhar cerca de R$ 35.000 a R$ 55.000+.
+Os engenheiros de rede seniores podem ganhar de R$ 50.000 a mais de R$ 70.000 por ano. Os salários para trabalhadores contratados experientes podem ser maiores e as taxas podem variar de R$ 175 a mais de R$ 500 por dia.
+Os benefícios podem incluir pensão, vale-transporte, seguro saúde privado e esquema de bônus.
+
+O salário depende do tamanho, tipo e setor da organização para a qual você trabalha, e do tamanho e escopo de suas instalações de computador e rede. O valor da infraestrutura de TI também afeta o salário, de modo que os engenheiros de rede na cidade de Londres, por exemplo, podem receber consideravelmente mais.
+
+As cifras de receita são apenas um guia.
+
+Jornada de trabalho
+Você normalmente trabalhará uma semana normal. No entanto, você pode estar de plantão fora do horário comercial, nos finais de semana ou à noite, e precisa ser flexível no caso de ocorrerem problemas técnicos graves.
+
+O trabalho autônomo ou autônomo é possível com a experiência.
+
+O que esperar
+O trabalho é baseado em escritório, embora você possa precisar trabalhar em locais diferentes, dependendo do tamanho da organização e de sua rede.
+Os empregos estão disponíveis em todo o Reino Unido em organizações com sistemas de TI grandes e sofisticados ou com consultorias que fornecem suporte aos clientes.
+O trabalho pode ser desafiador, principalmente quando as coisas dão errado, pois as empresas dependem de suas redes de computadores.
+As mulheres estão sub-representadas no trabalho e o desequilíbrio de gênero no setor de TI como um todo é um problema reconhecido. Passos estão sendo dados para restabelecer o equilíbrio. Consulte Women in Technology e BCSWomen para obter mais informações e vagas de emprego.
+Se você trabalha como consultor, pode passar muito tempo nos escritórios dos clientes e em grandes instalações, o que pode significar ficar longe de casa ou de sua base de trabalho habitual.
+Qualificações
+Normalmente, você precisará de um diploma em um assunto como:
+
+Ciência da Computação
+Software de computador/engenharia de sistemas de computador
+Sistemas e redes de computadores
+Engenharia elétrica/eletrônica
+Matemática
+Gerenciamento de segurança de rede
+Física.
+Pode ser possível entrar nesta carreira sem um diploma, desde que você tenha experiência significativa.
+
+
+
+Os empregadores geralmente esperam que você faça mais estudos para obter qualificações profissionais (se ainda não as tiver). Por exemplo, muitas faculdades e organizações de treinamento privadas participam do programa Cisco Networking Academy, que fornece certificação em vários níveis para alunos e profissionais de rede.
+
+Habilidades
+Você vai precisar de:
+
+Um conhecimento e compreensão atualizados dos negócios de seu empregador e das necessidades da indústria, bem como das demandas técnicas
+Reconhecer a importância do foco no cliente e/ou de atender às necessidades do usuário final
+Excelentes habilidades de comunicação, especialmente a capacidade de se comunicar com funcionários que não são tecnicamente treinados
+A habilidade de assumir uma variedade de tarefas e prestar atenção aos detalhes
+Capacidade analítica e de resolução de problemas
+Habilidades de trabalho em equipe e a capacidade de se sentir confortável trabalhando com diferentes equipes, clientes e grupos de funcionários em uma organização
+Habilidades organizacionais e capacidade de priorizar sua carga de trabalho.
+Experiência de trabalho
+Experiência de trabalho relevante, por exemplo, por meio de trabalho de férias e estágios de verão, é útil porque os recrutadores frequentemente procuram evidências de habilidades desenvolvidas por meio de trabalhos de projeto e estágios.
+
+Experiência em áreas relacionadas, como suporte de TI, serviços e reparos, pode ser útil se você deseja migrar para a engenharia de rede.
+
+Estar na extremidade do usuário de sistemas de TI também é útil, pois isso lhe dará uma ideia dos tipos de problemas que podem surgir.
+
+Empregadores
+Você pode trabalhar para qualquer organização com sistemas de TI grandes e sofisticados. Os empregadores típicos incluem:
+
+Bancos e sociedades de construção
+Grupos de varejo
+Grandes departamentos governamentais
+Escolas, hospitais e autoridades locais
+Empresas de utilidade
+Provedores de transporte
+Consultorias de gestão.
+Algumas organizações, incluindo muitas autoridades locais e outros órgãos do setor público, terceirizam todos os seus sistemas de TI para especialistas, de modo que essas empresas especializadas geralmente têm vagas para pessoas com habilidades em rede.
+
+Os engenheiros de rede podem ser contratados por uma grande empresa de TI para gerenciar os próprios sistemas da empresa ou trabalhar em seus serviços de contrato.
+
+Grandes empresas, como a Microsoft, fornecem uma ampla variedade de serviços de instalação e suporte ao cliente e recrutam graduados e funcionários experientes em todas as áreas de suporte de TI.
+
+Existem também muitas pequenas consultorias que trabalham configurando e gerenciando sistemas para organizações que são muito pequenas para garantir suporte de TI em tempo integral.
+
+Procure por vagas de emprego em:
+
+Carreiras financeiras
+Empregos de TI Online
+Agências de recrutamento especializadas em TI, como a Hays, também têm vagas, embora sejam mais úteis depois de adquirida uma sólida experiência de trabalho.
+
+Embora as grandes empresas geralmente tenham um procedimento de recrutamento de pós-graduação estruturado, você pode abordar pequenas empresas e consultorias de TI em uma base especulativa, garantindo que seu currículo enfatize suas habilidades pessoais, bem como técnicas.
+
+Ler:  Quanto ganha um cartógrafo salários • O que faz?
+A contratação pode ser uma opção, uma vez que você ganhou experiência substancial – visite a Contractor UK para mais informações. A maioria dos locais de trabalho também inclui funções de contratado.
+
+Desenvolvimento profissional
+Devido à natureza mutante do setor e às habilidades necessárias, você precisará fazer do treinamento uma parte constante do desenvolvimento de sua carreira.
+
+Grandes empresas podem enviar cursos de treinamento e fornecerão treinamento à medida que introduzem novos sistemas ou expandem suas instalações de TI.
+
+No entanto, muitas vezes você terá que procurar um treinamento apropriado para si mesmo, especialmente se estiver procurando uma promoção, uma mudança de carreira ou for autônomo.
+
+As qualificações relevantes incluem:
+
+Programa de Certificação Cisco – disponível nos níveis de entrada (CCENT), associado, (CCNA), profissional (CCNP), especialista (CCIE) e arquiteto (nível mais alto de acreditação alcançável)
+Certificações CompTIA – incluindo CompTIA A+ e CompTIA Network+
+Programa de Certificação da Juniper Networks (JNCP) – disponível nos níveis de associado, especialista, profissional e especialista
+Certificações Microsoft – incluindo Microsoft Certified Solutions Associate (MCSA) e o Microsoft Certified Solutions Expert (MCSE) de nível superior.
+Os cursos podem ser caros e você mesmo terá que pagar as taxas, portanto, certifique-se de que sejam relevantes para seus objetivos de desenvolvimento de carreira.
+
+Perspectivas de carreira
+A sua trajetória profissional dependerá, em certa medida, do tamanho da organização para a qual você trabalha e do escopo de seus sistemas de TI.
+
+Após adquirir experiência, você pode progredir para cargos de gerente de rede sênior e gerenciamento de rede. Alguns engenheiros de rede optam por expandir suas carreiras para outras funções de TI, relacionadas ao cliente ou de gerenciamento. O gerenciamento de projetos técnicos ou de infraestrutura e a arquitetura de rede são possibilidades.
+
+Aqueles que começam como técnicos de help desk podem, às vezes, progredir para postos de engenheiro de rede, depois para suporte de rede sênior e, finalmente, controlador de rede (principalmente envolvido na tomada de decisões, gerenciamento de pessoal e aconselhamento sobre estratégias futuras). Esse pode ser o caminho típico em uma organização, como um grande banco ou um grande departamento governamental. Se você trabalha para uma pequena empresa, pode ser o controlador de rede desde o primeiro dia e também ter muitas outras responsabilidades relacionadas a suporte técnico e de TI.
+
+As funções de engenharia de rede e suporte de rede tendem a afastá-lo da programação, portanto, se isso é algo que você gosta e deseja manter, você precisa estar ciente disso antes de se comprometer com uma função de suporte de sistemas.
+
+Com a experiência, há oportunidades de passar para a contratação de TI e para o trabalho autônomo.

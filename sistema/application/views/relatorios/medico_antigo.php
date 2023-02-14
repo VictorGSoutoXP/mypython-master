@@ -1,0 +1,19 @@
+<?php echo $this->load->view('layouts/menu',false,true,false); ?>
+
+<form action="" method="post">
+    <fieldset>
+    <legend>Relatório <?php echo UserSession::isAdmin() ? "Médico" : "Financeiro"?>:</legend>
+	<div class="row">
+    	<div class="span2 fix-width rel">
+    	    <label for="dateInicio">Período</label>
+    	    <input id="dpd1" name="inicio" class="span1 datepicker" type="text" value="" placeholder="De" />
+    	    <input id="dpd2" name="fim" class="span1 datepicker" type="text" value="" placeholder="Até" />
+    	</div>
+    	
+    	<div class="span2">
+			<label>&nbsp;</label>
+    	    <button type="submit" class="btn btn-primary inline">Gerar Relatório</button>
+    	</div>
+	</div>
+	</fieldset>
+</form>
