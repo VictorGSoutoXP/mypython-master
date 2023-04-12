@@ -11,6 +11,7 @@
 # Verificamos se o palpite do jogador está correto. Se estiver correto, exibimos uma mensagem de vitória e o número de tentativas. Se o palpite for muito baixo, exibimos uma mensagem para o jogador escolher um número maior. Se o palpite for muito alto, exibimos uma mensagem para o jogador escolher um número menor.
 # O loop continua até que o jogador adivinhe o número correto e a instrução break seja executada para sair do loop.
 # Finalmente, executamos a função jogo() para iniciar o jogo.
+# Criado por Victor Souto. :)
 
 import random
 

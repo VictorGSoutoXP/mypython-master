@@ -5,6 +5,8 @@
 # Usando um loop for, a função gera uma senha aleatória de tamanho tamanho escolhendo aleatoriamente um caractere da string caracteres em cada iteração e concatenando os caracteres escolhidos em uma string senha.
 # A função retorna a senha gerada.
 # Para usar essa função, basta chamar gerar_senha(tamanho) e passar o tamanho desejado da senha como argumento. No exemplo acima, é gerada uma senha de 8 caracteres e exibida na tela usando a função print().
+# Criado por Victor Souto. :)
+
 import random
 import string
 

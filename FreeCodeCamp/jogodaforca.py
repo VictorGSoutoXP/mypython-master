@@ -11,6 +11,8 @@
 # Verificamos se a letra já foi adivinhada antes, se sim, exibimos uma mensagem para o jogador escolher outra letra.
 # Se a letra ainda não foi adivinhada, verificamos se a letra está na palavra secreta. Se estiver, adicionamos a letra à lista letras_certas. Se não estiver, adicionamos a letra à lista letras_erradas e diminuímos o número de tentativas.
 # Verificamos se o jogador
+# Criado por Victor Souto. :)
+
 
 import random
 
