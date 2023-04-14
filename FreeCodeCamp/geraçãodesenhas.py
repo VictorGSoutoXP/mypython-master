@@ -20,5 +20,5 @@ def gerar_senha(tamanho):
     return senha
 
 # Exemplo de uso
-senha_aleatoria = gerar_senha(16) # gera uma senha de 8 caracteres
+senha_aleatoria = gerar_senha(16) # gera uma senha de X caracteres
 print(senha_aleatoria)
