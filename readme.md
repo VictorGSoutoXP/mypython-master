@@ -3,8 +3,8 @@
 
 * Este repositório contém recursos para aprender a linguagem de programação Python.
 * Sou estudante de engenharia de software, e aqui você encontrará uma variedade de materiais para ajudá-lo a desenvolver suas habilidades em Python, desde níveis básicos até avançados.
-* Espero que meus estudos o ajudem também a estudar
-* A persistência é a chave para abrir as portas do sucesso, mesmo quando as fechaduras parecem impossíveis de desbloquear.
+* Espero que meus códigos de estudos possam o guiar nesta jornada.
+* "A persistência é a chave para abrir as portas do sucesso, mesmo quando as fechaduras parecem impossíveis de desbloquear." Victor Souto
 
 ## Começando
 
@@ -79,7 +79,6 @@
 ## Observações
 
 * A maioria dos diretórios não foram criados, ou estão em desenvolvimento.
-
 # Boa codificação!
 
 <img src="python.png">
