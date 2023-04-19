@@ -1,5 +1,3 @@
-<img src="python.png">
-
 # Repositório de Aprendizagem de Python
 ### Victor Souto
 
@@ -83,3 +81,5 @@
 * A maioria dos diretórios não foram criados, ou estão em desenvolvimento.
 
 # Boa codificação!
+
+<img src="python.png">
