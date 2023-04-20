@@ -1,4 +1,5 @@
 # Repositório de Aprendizagem de Python
+
 ### Victor Souto
 
 * Este repositório contém recursos para aprender a linguagem de programação Python.
@@ -79,6 +80,7 @@
 ## Observações
 
 * A maioria dos diretórios não foram criados, ou estão em desenvolvimento.
-# Boa codificação!
 
-<img src="python.png">
+# Boa codificação
+
+<img src="python.PNG">
