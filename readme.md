@@ -81,6 +81,8 @@
 
 * A maioria dos diretórios não foram criados, ou estão em desenvolvimento.
 
-# Boa codificação
+## Boa Codificação
 
-<img src="python.PNG">
+![Screenshot][def]
+
+[def]: python.png
